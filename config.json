@@ -1,4 +1,5 @@
-module.exports = {
-  BOT_TOKEN: "8396874193:AAEZNsLA8sLWT2rRWvBLlABktE_dSG2-RZs",
-  OWNER_ID: ["7434020565"],
-};
+{
+  "newsletterIds": [
+    "120363411402850196@newsletter"
+  ]
+}
